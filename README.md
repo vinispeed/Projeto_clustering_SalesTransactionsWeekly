@@ -58,4 +58,4 @@ Esses insights podem ser utilizados para otimizar estratégias de promoção e g
 
 ## Autor
 
-Este projeto foi desenvolvido como parte de um estudo de clusterização de dados de vendas semanais.
+Este projeto foi desenvolvido por Marcos Vinicius da Silva, como parte de um estudo de clusterização de dados de vendas semanais.
